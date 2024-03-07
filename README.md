@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a React Native expo application<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning Docker<br>💬 Ask me about React.js, React Native, Firebase, GCP, Node.js<br>⚡ Fun fact - I'm the Swiss Army Knife of the tech world – I can build your app, then break into it and tell you exactly how to fix it.
 
 
 ## 🌐 Socials:
