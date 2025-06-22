@@ -1,38 +1,217 @@
-Hi 👋 My name is Gaurav Singh
-=============================
+# Hi there, I'm Gaurav Singh! 👋
 
-Software Developer | Cloud & AI Enthusiast | Security Researcher
-----------------------------------------------------------------
+<div align="center">
 
-I'm a results-driven Software Developer with a passion for building innovative and user-centric web and mobile applications. My expertise spans front-end and back-end development, with a focus on technologies like React.js, React Native, and Firebase. I'm also experienced in leveraging Google Cloud Platform for scalable and efficient cloud solutions, and I'm keen on exploring the possibilities of AI. In addition to my development skills, I have a strong foundation in cybersecurity. As a Security Researcher, I've identified and reported vulnerabilities in systems of major companies, demonstrating my commitment to building secure and reliable software. I thrive on solving complex challenges and collaborating with teams to deliver high-quality results.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Mobile-First+Full-Stack+Developer;React+Native+%26+Expo+Specialist;Security+Researcher+%7C+Hall+of+Fame+Winner;Building+Cross-Platform+Magic+%E2%9A%A1)](https://git.io/typing-svg)
 
-* 🌍  I'm based in Delhi, India
-* ✉️  You can contact me at [gaurav130202chaudhary@gmail.com](mailto:gaurav130202chaudhary@gmail.com)
-* 🚀  I'm currently working on [Crossbuild UI](http://www.crossbuildui.com/)
-* 🧠  I'm learning continuously and expanding my knowledge in the fields of AI and Cloud Computing, with a focus on applying these technologies to create cutting-edge applications.
-* 🤝  I'm open to collaborating on exciting projects that involve web and mobile development, cloud solutions, and AI integration. I'm particularly interested in projects that have a positive impact and solve real-world problems.
-* ⚡  I'm a proactive and dedicated developer with a strong work ethic and a passion for continuous learning. I'm always eager to take on new challenges and contribute my skills to create innovative and impactful solutions.
+</div>
 
-### Skills
+## 🚀 About Me
 
+I'm a **Mobile-First Full-Stack Developer** with 3+ years of specialized experience in **React Native**, **Expo**, and **Next.js** ecosystems. Currently working as a **Software Engineer at Mercor**, collaborating with top AI research teams while building cutting-edge mobile applications.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-</p>
+```typescript
+const gaurav = {
+    title: "Mobile-First Full-Stack Developer",
+    location: "Faridabad, India 🇮🇳",
+    currentRole: "Software Engineer @ Mercor",
+    specializations: [
+        "React Native & Expo Development",
+        "Next.js & Modern React Patterns", 
+        "Cloud-Native Architecture (GCP)",
+        "Security Research & Ethical Hacking"
+    ],
+    achievements: {
+        vulnerabilities_found: "24+",
+        companies_helped: ["Samsung", "Apple", "Oppo"],
+        hall_of_fame: ["Apple Inc.", "Samsung", "SideFX"],
+        hackathon_finalist: "New India Vibrant Hackathon 2023"
+    },
+    current_focus: "Building Crossbuild UI - React Native/Expo Toolkit"
+};
+```
 
+---
 
-### Socials
+## 🎯 What I'm Up To
 
-<p align="left"> <a href="https://www.github.com/gaurav-1302" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gauravchadhry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/GAURAVS69433557" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+- 🔭 **Currently Working:** Software Engineer at **Mercor** (collaborating with AI research teams)
+- 🚀 **Building:** [Crossbuild UI](http://www.crossbuildui.com/) - React Native/Expo toolkit with 24+ components
+- 📱 **Specializing In:** React Native, Expo SDK, Next.js, and modern UI libraries
+- 🌱 **Learning:** Advanced AI/ML integration in mobile apps, Cloud-Native patterns
+- 👯 **Open to Collaborate:** React Native projects, Expo tooling, Mobile-first applications
+- 🏆 **Achievement:** Hall of Fame winner at Apple, Samsung, and SideFX for security research
+- 📫 **Reach Me:** [gaurav130202chaudhary@gmail.com](mailto:gaurav130202chaudhary@gmail.com)
+- ⚡ **Fun Fact:** Discovered 24+ vulnerabilities in major tech companies while building mobile apps!
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack & Expertise
 
-<a href="http://www.github.com/gaurav-1302"><img src="https://github-readme-stats.vercel.app/api?username=gaurav-1302&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gaurav-1302's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/gaurav-1302"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-1302&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📱 Mobile Development (Primary Focus)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<a href="https://github.com/gaurav-1302" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-1302&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🎨 Modern UI Libraries & Design Systems
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
-![image](https://github.com/user-attachments/assets/4a1c65cc-2413-4cbe-988d-e2a0ed4e9abc)
+### 💻 Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚙️ Backend & Cloud (GCP Specialist)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔐 Security & Research
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=hackerone&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-4ECDC4?style=for-the-badge&logo=bugcrowd&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Professional Experience
+
+<div align="center">
+
+| 🚀 **Current Role** | 📱 **Specialization** | 🔐 **Security Research** |
+|:---:|:---:|:---:|
+| Software Engineer @ Mercor | React Native & Expo Expert | 24+ Vulnerabilities Found |
+| May 2025 - Present | Next.js & Modern React | Hall of Fame Winner |
+| AI Research Collaboration | Cross-Platform Mobile Apps | Apple, Samsung, SideFX |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav-1302&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-1302&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-1302&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-1302&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🔥 **Crossbuild UI** - React Native/Expo Toolkit
+[![Crossbuild UI](https://github-readme-stats.vercel.app/api/pin/?username=crossbuildui&repo=crossbuildui&theme=tokyonight&hide_border=true)](http://www.crossbuildui.com/)
+
+**🚀 Key Features:**
+- 24+ themeable, pixel-perfect UI components
+- CLI tool (cbui-cli) for instant Expo app scaffolding
+- Dark/Light mode support
+- Free & Premium component tiers
+- Built with TypeScript & modern React patterns
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🏅 **Awards & Hackathons** | 🔐 **Security Research** | 🎓 **Education** |
+|:---:|:---:|:---:|
+| Grand Finale Finalist | **Hall of Fame** - Apple Inc. | B.Tech CSE (AIML) |
+| New India Vibrant Hackathon 2023 | **Hall of Fame** - Samsung | GLA University |
+| 2nd Place - Brew Codes 2023 | **Hall of Fame** - SideFX | 2021 - 2025 |
+| Runner-Up - National Ideathon | **Hacker Badge** - Samsung | - |
+
+</div>
+
+---
+
+## 🌟 Open Source Contributions
+
+**🎯 Specializing in React Native & Expo ecosystem**
+- **Crossbuild UI**: Popular React Native component library
+- **Expo SDK Extensions**: Custom modules and plugins
+- **React Native Tools**: CLI utilities and development tools
+- **Community Contributions**: Active in React Native & Expo communities
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-1302&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3"/>
+</div>
+
+---
+
+## 📱 Mobile Development Focus
+
+### 🎨 **UI/UX Libraries I Work With**
+- **shadcn/ui** - Modern React component library
+- **HeroUI** - Beautiful React Native components  
+- **MagicUI** - Animated UI components
+- **Expo Vector Icons** - Comprehensive icon library
+- **React Native Reanimated** - Advanced animations
+- **Crossbuild UI** - Expo component library
+
+### 🛠️ **React Native Ecosystem**
+- **Expo SDK 53+** - Latest Expo features
+- **Expo Router** - File-based routing
+- **Expo Dev Tools** - Development workflow
+- **EAS Build** - Cloud-based app building
+- **Expo Updates** - Over-the-air updates
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravchadhry)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/gaurav-1302)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav130202chaudhary@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📱 "Building the future of mobile experiences, one React Native component at a time!" 
+
+**Interested in collaborating on React Native projects or discussing mobile development? Let's connect!** 
+
+⭐️ From [Gaurav Singh](https://github.com/gaurav-1302) - Mobile-First Developer & Security Researcher
+
+</div>
