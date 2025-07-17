@@ -14,7 +14,7 @@ I'm a **Mobile-First Full-Stack Developer** with 3+ years of specialized experie
 const gaurav = {
     title: "Mobile-First Full-Stack Developer",
     location: "Faridabad, India 🇮🇳",
-    currentRole: "Software Engineer @ Mercor",
+    currentJob: "Freelence Developer",
     specializations: [
         "React Native & Expo Development",
         "Next.js & Modern React Patterns", 
