@@ -13,7 +13,7 @@ I'm a **Mobile-First Full-Stack Developer** with 3+ years of specialized experie
 ```typescript
 const gaurav = {
     title: "Mobile-First Full-Stack Developer",
-    location: "Faridabad, India 🇮🇳",
+    location: "Noida, India 🇮🇳",
     currentJob: "Freelence Developer",
     specializations: [
         "React Native & Expo Development",
